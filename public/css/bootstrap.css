@@ -10,6 +10,12 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+
+.image
+{
+  background-image: center;
+}
+
 body {
   margin: 0;
 }
@@ -6200,4 +6206,10 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */
+
+a {
+  
+display: block;
+  margin : auto;
+
+} 
